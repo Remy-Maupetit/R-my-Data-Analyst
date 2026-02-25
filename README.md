@@ -8,7 +8,7 @@ Fort d'un parcours de **24 ans** dans le domaine de la **logistique du dernier k
 
 Ce portfolio regroupent les différents projets que j'ai mené durant ce cursus via les livrables réalisés.
 
-Cette page regroupe les différentes compétences acquisent lors de mon parcours. 
+Cette page me permet également de vous présentez les différentes compétences acquisent lors de mon parcours. 
 
 ### Compétences techniques
 
@@ -21,8 +21,19 @@ Cette page regroupe les différentes compétences acquisent lors de mon parcours
 
 ### Compétences comportementales
 
+**Rigueur** *La rigueur est primordiale pour garantir la probité des résultats issue de l'analyse des données.*
+**Communication** *Il faut savoir apporter des informations en les vulgarisant pour rester audible pour les non experts.*
+**Analyse** *.* 
+**Pédagogie** *Savoir expliquer les données  et les résultats en restant accessible, tout en expliquant simplement les démarches réalisés .*
+**Organisation** *Rester focaliser sur l'objectif principal sans s'éparpiller dans des taches secondaires chronophages.*
+**Sens des responsabilités** *Produire des analyses respectant les contraintes métiers et etre force de propositions .*
+**Ecoute** *Respecter et comprendre les attendus métiers qui doivent découler de l'analyse .*
+**Créativité** *Réaliser des tableaux de bord et illuster les données de manière innovante et agréable toute en respectant les contraintes d'accéssibilité.* 
+**Ethique** *Etre scrupuleux sur le respect des normes(RGPD) et la sécurité des données utilisées.*
+**Curiosité** *Ne pas hésiter à tester d'autres méthodes et rester en alerte par rapport aux évolutions en matière de data science et visualisation.*
+**Esprit critique** *Analyser sans parti pris les données et pouvoir remettre en question les résultats obtenus.*
+**Adaptabilité** *Etre en capacité de s'adapter aux changement soudain pouvant intervenir.*
+**Persévérance** *Ne pas baisser les bras en cas d'echec et se remettre en question pour parvenir à réaliser la mission ou l'objectif* 
 
 
 
-🎯 Objectif
-Débuter en tant que Data Analyst junior et contribuer à des projets orientés performance et prise de décision.
