@@ -8,7 +8,7 @@ Fort d'un parcour de **24 ans** dans le domaine de la **logistique du dernier ki
 
 Ce portfolio regroupent les différents projets que j'ai mené durant ce cursus via les livrables réalisés.
 
-Cette page me permet également de vous présentez les différentes compétences acquisent lors de mon parcours. 
+Cette page me permet également de vous présenter les différentes compétences acquises lors de mon parcours. 
 
 ### Compétences techniques
 
