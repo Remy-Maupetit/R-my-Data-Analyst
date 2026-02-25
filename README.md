@@ -1,4 +1,4 @@
-# RemyMaupetit_Data_Analyst
+# Remy_Maupetit_Data_Analyst
 
 ## Bonjour, 
 
