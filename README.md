@@ -10,7 +10,7 @@ Ce portfolio regroupe les différents projets que j'ai menés durant ce cursus �
 
 Cette page me permet également de vous présenter les compétences techniques et comportementales que j'ai acquises au fil de mon parcours. 
 
-### Compétences techniques
+### __Compétences techniques__
 
 **Python :** *Analyse exploratoire, visualisation, analyses uni et multi-variées, classification, analyses statistiques, machine learning.*
 
@@ -23,7 +23,7 @@ Cette page me permet également de vous présenter les compétences techniques e
 **Knime :** *Traitement de fichiers dans le respect du RGPD , réalisation de calculs et de visualisations pour obtenir des scores de performance.*
 
 
-### Compétences comportementales
+### __Compétences comportementales__
 
 **Rigueur :** *Garantir la fiabilité et l'intégrité des résulstats issus de l'analyse de données.*
 
