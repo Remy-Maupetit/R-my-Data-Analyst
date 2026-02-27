@@ -1,5 +1,11 @@
 # Remy_Maupetit_Data_Analyst
 
+
+![photo cv](https://github.com/user-attachments/assets/696ba1da-8ad1-47fe-9477-5cd30b7ae015)
+
+
+
+
 ## Bonjour, 
 
 Je m'appelle **Rémy Maupetit**.
@@ -7,7 +13,7 @@ Je m'appelle **Rémy Maupetit**.
 Fort d'un parcours de **23 ans** dans le domaine de la **logistique du dernier kilomètre** dont **5 ans** en tant qu'**Organisateur Analyste** , je viens d'achever avec succès un cursus de formation de **Data Analyst** débuté en mars 2025.
 
 
-Ce portfolio regroupe les différents projets que j'ai menés durant ce cursus à travers les livrables réalisés.
+Ce portfolio regroupe les différents projets que j'ai mené durant ce cursus à travers les livrables réalisés.
 
 
 
