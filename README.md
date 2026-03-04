@@ -1,4 +1,5 @@
-# Remy_Maupetit_Data_Analyst
+# Remy Maupetit
+# Data_Analyst | Analyse & Visualisation de données
 
 
 <img src="https://github.com/user-attachments/assets/696ba1da-8ad1-47fe-9477-5cd30b7ae015" alt="photo CV" width="150" />
@@ -6,14 +7,16 @@
 
 
 
-## Bonjour, 
+## A propos 
 
 Je m'appelle **Rémy Maupetit**, j'ai 44 ans.
 
-Fort d'un parcours de **23 ans** dans le domaine de la **logistique du dernier kilomètre** dont **5 ans** en tant qu'**Organisateur Analyste** et souhaitant me reconvertir dans l'analyse de données, je viens d'achever avec succès un cursus de formation de **Data Analyst** débuté en mars 2025.
+Professionnel expérimenté avec **23 ans** dans la **logistique du dernier kilomètre** dont **5 ans** en tant qu'**Organisateur Analyste** j'ai developpé une forte culture opérationnelle et orientée performance.
+
+souhaitant évoluer vers un métier centré sur l'analyse et la valorisation des données, jai suivis et achever avec succès une formation de **Data Analyst** débutée en mars 2025.
 
 
-Ce portfolio regroupe les différents projets que j'ai mené durant ce cursus à travers les livrables réalisés.
+Ce portfolio présente les projets réalisés durant ce cursus à travers les livrables réalisés.
 
 
 
