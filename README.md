@@ -29,15 +29,15 @@ Ce portfolio présente les projets réalisés durant ce cursus à travers les li
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 ![Knime](https://img.shields.io/badge/KNIME-000000?style=for-the-badge&logo=KNIME&logoColor=white)  
 
-Python : Analyse exploratoire, visualisation, analyses uni- et multi-variées, analyses statistiques, classification, machine learning.  
+**Python :** Analyse exploratoire, visualisation, analyses uni- et multi-variées, analyses statistiques, classification, machine learning.  
 
-SQL : Création et gestion de bases de données, requêtes analytiques orientées besoins métiers.  
+**SQL :** Création et gestion de bases de données, requêtes analytiques orientées besoins métiers.  
 
-Power BI : Conception de tableaux de bord interactifs, modélisation simple de données, création d’indicateurs clés (KPI).  
+**Power BI :** Conception de tableaux de bord interactifs, modélisation simple de données, création d’indicateurs clés (KPI).  
 
-Excel : Tableaux de reporting structurés, visualisations claires et pertinentes.  
+**Excel :** Tableaux de reporting structurés, visualisations claires et pertinentes.  
 
-Knime : Préparation de données, traitement conforme RGPD, calcul de scores de performance.  
+**Knime :** Préparation de données, traitement conforme RGPD, calcul de scores de performance.  
 
 ---
 
