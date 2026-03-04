@@ -29,7 +29,7 @@ Ce portfolio présente les projets réalisés durant ce cursus à travers les li
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 ![Knime](https://img.shields.io/badge/KNIME-000000?style=for-the-badge&logo=KNIME&logoColor=white)  
 
-**Python :** Analyse exploratoire, visualisation, analyses uni- et multi-variées, analyses statistiques, classification, machine learning.  
+**Python :** Analyse exploratoire, visualisation, analyses uni et multi-variées, analyses statistiques, classification, machine learning.  
 
 **SQL :** Création et gestion de bases de données, requêtes analytiques orientées besoins métiers.  
 
